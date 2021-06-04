@@ -1,0 +1,1563 @@
+#EXTM3U
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", ABS CBN
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/100.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bc99sgxqxnn5gp1/GMA.png?dl=1" group-title="(no group)", GMA 7. [Kapuso]
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/99.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", PBO
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/110.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", Jeepney TV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/106.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", GTV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/107.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", TV5
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/102.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", ANC
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/103.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", PTV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/101.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", CinemaOne
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/109.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", CNN PH
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/104.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", Cinemo
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/127.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", DZRH
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/108.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", One Ph
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/115.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", One Sports
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/114.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", PBA Rush
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/122.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", Dep Ed
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/123.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", Radyo
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/124.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", Knowledge Ch
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/135.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", IBC
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/98.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", Kabayan
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/137.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", Cinemax
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/111.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", Nickolodeon
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/105.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", FOX
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/112.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", HBO
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/113.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", MYX
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/116.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", Fox2
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/117.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", Fox3
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/119.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", NBA TV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/120.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", AXN
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/121.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", Animax
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/125.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", Disney CH
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/126.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", Nat Geo
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/128.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", Metro Style
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/129.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", ABS CBN
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/100.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.dropbox.com/s/bc99sgxqxnn5gp1/GMA.png?dl=1" group-title="(no group)", GMA 7. [Kapuso]
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/99.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", PBO
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/110.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", Jeepney TV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/106.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", GTV
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/107.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="(no group)", TV5
+http://103.65.184.145:8443/live/a94fcf08709d77b1a916f434c3044ab9/102.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment", Sony Aath
+http://209.126.120.153:80/hls/sony8.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Yay Bangla
+https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Ten 1 (Opt-1)
+http://209.126.120.153:80/hls/ten1.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Ten 1 (Opt-2)
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_1_HD-in/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Ten 2 (Opt-2)
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_2_HD-in/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/240px-Sony_Aath_logo.svg.png" group-title="Entertainment", Sony Aath
+http://209.126.120.153:80/hls/sony8.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Yay Bangla
+https://d20fdzcwhk7szz.cloudfront.net/SONY_YAY.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Ten 3 (Opt-2)
+http://212.224.98.196:2200/R-EX/SPORTS_TEN_3_HD-in/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony SIX (Opt-2)
+http://212.224.98.196:2200/R-EX/SPORTS_SONY_SIX_HD-in/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Movies
+http://209.222.101.100:25461/tv/tv/22917
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", SONY SET MAX HD
+http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_HD-in/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony Max2 (Opt-1)
+http://212.224.98.196:2200/R-EX/HINDI_SONY_MAX_2-in/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", Sony SAB HD
+http://212.224.98.196:2200/R-EX/HINDI_SONY_SAB_HD-in/index.m3u8?token=
+
+#EXTINF:-1 tvg-logo="http://thechains24.com/Ghost-Addon/ghostxmls/xmls1/Icons/iptv.png" group-title="Without category", http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
+http://stream.tvtap.live:8081/live/wwe.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://spng.pngfind.com/pngs/s/206-2066462_nba-on-tntsvg-wikipedia-nba-on-tnt-logo.png" group-title="NBA", TNT GAMETIME
+http://ftayujnab.azureedge.net/edge/TNT/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Portland Trail Blazers vs Denver Nuggets
+http://watch.myislandtv.xyz:8080/live/Manny123/Manny123/1211.m3u8
+
+#EXTINF:-1 tvg-logo="https://frntofficesport.com/wp-content/uploads/2018/03/48ccb3b763a14cbaa90c60a3234340e8.jpg" group-title="NBA", Phoenix Suns vs. Los Angeles Lakers
+http://watch.myislandtv.xyz:8080/live/Manny123/Manny123/1211.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Spacetoon
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Animax
+http://210.210.155.35:80/session/0a7f45f8-2efe-11eb-a328-c81f66f89318/dr9445/h/h144/01.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Biznet Kids
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Disney XD
+http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/20233
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Disney Junior
+http://51.79.82.231:8080/US_DISNEY_JR_EAST_USA/video.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Spacetoon
+http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", Nickelodeon Junior
+http://bit.ly/NickJr360p
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Category XSPF", TokuSHOUTsu
+http://gg.gg/TokuSHOUTsu
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA NBA TV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58737
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA NBA TV LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58738
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA NBA TV SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58739
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA NBA TV UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58740
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Baby First LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58193
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Baby TV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58194
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Baby First
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58195
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BBC America
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58196
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BBC America LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58197
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BBC America UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58198
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BBC World News
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58199
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BBC World News LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58200
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BBC World News UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58201
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Bein Sport USA SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58202
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BeIN Sports 2
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58203
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BeIN Sports 4
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58204
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BeIN Sports 5
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58205
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BeIN Sports 6
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58206
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BeIN Sports 7
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58207
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Baby First
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58195
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BBC America
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58196
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Baby TV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58194
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Baby First
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58195
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Bein Sports N Espanol SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58212
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Bein Sports N Espanol UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58213
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Bein Sports UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58214
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BET East SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58215
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BET East UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58216
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BET_Jams
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58218
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BET_SOUL
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58219
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Big Ten Network 2
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58220
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Big Ten Network 3
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58221
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Big Ten Network 4
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58222
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Bloomberg UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58224
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Boomerang
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58225
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Boomerang LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58226
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Boomerang UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58227
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BOUNCE TV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58228
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Bravo
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58229
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Bravo East LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58230
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Bravo East UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58232
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Bravo West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58233
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BET West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59022
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Black News Channel
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/88511
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA BabyTV Español
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498627
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Band News (Portuguese)
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498633
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA E! Entertainment East  LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58379
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA E! Entertainment West LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58380
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA E! Entertainment East  UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58381
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA E! Entertainment East SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58382
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Eleven Sports Network
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58383
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA E! Entertainment
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58384
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Epix
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58385
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA EPIX Drive-In
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58386
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA EPIX Hits LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58387
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Epix Hits UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58388
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA EPIX2
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58389
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPN 2
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58390
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPN 2 LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58391
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPN 2 SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58392
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPN 2 UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58393
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Espn Deportes
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58395
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPN Deportes LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58396
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPN Deportes SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58397
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPN Deportes UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58398
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPN LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58399
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Espn News
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58400
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPN News LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58401
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPN News UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58402
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPN SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58403
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPN SEC Network
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58404
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPNU
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58405
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPN UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58406
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPNU LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58407
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPNU UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58408
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPN Longhorns Network
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58643
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA ESPN College Extra 1
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59105
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Cinemax East
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58293
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Cinemax East LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58294
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Cinemax East UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58295
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Cinemax West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58296
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Cinemax West LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58297
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA CINEMAX MORE MAX
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59097
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA CINEMAX THRILLERMAX
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59098
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA CINEMAX OUTER MAX
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59099
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA CINEMAX MOVIEMAX
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59100
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Cinemax East UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58295
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Cinemax West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58296
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Cinemax West LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58297
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA CINEMAX MORE MAX
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59097
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Cinemax ThrillerMax West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/499053
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney Channel
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58359
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney Channel East LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58360
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney Channel East UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58361
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney Channel Paficic
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58362
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney Channel West LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58363
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney East SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58364
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney JR East
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58365
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney Junior East LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58366
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney Junior West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58367
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney Junior UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58368
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney Junior West LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58369
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney XD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58370
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney XD East LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58371
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney XD Pacific
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58372
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney XD SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58373
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney XD UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58374
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Disney XD West LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58375
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Boomerang
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58225
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Boomerang LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58226
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Boomerang UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58227
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA National Geographic East LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58711
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA National Geographic East SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58712
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA National Geographic East UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58713
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA National Geographic West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58714
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA National Geographic Wild East UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58715
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA National Geographic Wild LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58716
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA National Geographic Wild SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58717
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Animal Planet East
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58183
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Animal Planet East UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58185
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Animal Planet SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58186
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Animal Planet West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58187
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Discovery East LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58347
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Discovery Español
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58348
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Discovery Family
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58350
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Discovery Life
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58351
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Discovery Life Channel LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58352
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Discovery Science
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58353
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Discovery SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58354
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Discovery TLC East
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58355
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Discovery UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58356
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Discovery Velocity
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58357
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Discovery West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58358
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Discovery Science LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58852
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Discovery Family
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58350
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Discovery Life
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58351
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Discovery Life Channel LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58352
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA TNT East LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58958
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA TNT East SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58959
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA TNT East UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58960
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA TNT West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58961
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA TNT West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58962
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Showtime 2
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58856
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Showtime Beyond
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58857
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Showtime East
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58858
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Showtime East LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58859
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Showtime East SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58860
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Showtime Extreme
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58862
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Showtime Family Zone
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58863
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Showtime Next
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58864
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Showtime Showcase
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58865
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Showtime West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58866
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Showtime Women
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58867
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA HBO
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58568
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA HBO 2 East UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58569
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA HBO East LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58570
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA HBO East SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58571
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA HBO East UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58572
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA HBO Family
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58573
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA HBO West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58574
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA HBO West LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58575
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA HBO Comedy
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59094
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA HBO East SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58571
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA HBO Zone
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59096
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Cartoon Network East
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58234
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Cartoon Network East LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58235
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Cartoon Network East SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58236
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Cartoon Network West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58237
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Nick Toon UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58816
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Nickelodeon East SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58817
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Nickelodeon UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58818
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Nick Jr East
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/91918
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Nick Teen East
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/91919
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA NICK MUSIC
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/499061
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 10 (WALA) Alabama
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58415
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Atlanta WAGA
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58416
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Austin KTBC
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58417
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Baltimore WBFF
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58418
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Belmont WJZY
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58419
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Boston WFXT
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58420
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Buffalo WUTV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58421
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Business Network LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58422
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Business SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58423
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Business UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58424
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Bussines Network
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58425
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Chicago WFLD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58426
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Cleveland WJW
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58427
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox College Pacific
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58428
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Columbus WTTE
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58432
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Dallas KDFW
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58433
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Denver KDVR
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58434
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Deportes
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58435
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Deportes LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58436
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Deportes LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58437
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Detroit WJBK
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58438
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Green Bay WLUK
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58439
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Hartford WTIC
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58440
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Houston KRIV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58441
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Indianapolis WXIN
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58442
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Jacksonville WFOX
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58443
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Kansas City WDAF
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58444
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Life
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58445
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Los Angeles KTTV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58446
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Miami WSVN UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58447
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Milwaukee WITI
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58448
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Minneapolis KMSP
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58449
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Nashville WZTV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58450
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Network East SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58451
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Network East UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58452
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox New Orleans WVUE
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58453
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox New York SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58454
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox New York WNYW
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58455
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox News Channel
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58456
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX News Channel LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58457
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox News SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58458
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox News UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58459
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Ocala WOGX
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58460
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Orlando WOFL
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58461
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Philadelphia WTXF
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58462
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Phoenix KSAZ
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58463
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Pittsburgh WPGH
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58464
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sacramento KTXL
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58465
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Salt Lake City KSTU
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58466
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox San Antonio KABB
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58467
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX San Diego KSWB
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58468
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox San Francisco KTVU
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58469
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Seattle KCPQ
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58470
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Soccer Plus
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58471
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Soccer Plus LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58472
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports 1 LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58473
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports 1 SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58474
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports 2 LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58476
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports 2 SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58477
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports 2 UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58478
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports Arizona
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58479
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Arizona LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58480
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports College Atlantic
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58482
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports Detroit
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58484
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Detroit LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58485
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports Florida
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58486
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Florida LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58487
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Indiana Plus KDVR
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58488
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Midwest LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58489
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports Netbase
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58490
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports North
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58491
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports North LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58492
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Ohio LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58494
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports Oklahoma
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58495
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Oklahoma LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58496
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Prime Ticket LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58498
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports San Diego
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58499
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports SanDiego LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58500
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports South
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58501
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports South LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58502
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Southeast
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58503
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Southeast LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58504
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Southwest
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58505
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Southwest LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58506
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports Sun
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58508
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Sun LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58509
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Tennessee LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58511
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58512
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports West LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58513
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports Wisconsin
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58514
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox SportsTime Ohio
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58516
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox SportsTime Ohio LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58517
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX St Louis KTVI
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58518
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Tampa WTVT
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58519
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Washington WTTG
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58520
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX21 (WHNS) Asheville
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58521
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX22 (KQFX) Jefferson City
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58522
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX24 (KFTA) Fort Smith
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58523
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX28 (KFXA) Cedar Rapids
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58524
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX4 (KTBY) Anchorage
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58525
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX5 (KVVU) Las Vegas
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58526
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports 2
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58533
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Greensboro WGHP
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59016
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 25 (KOKH) Oklahoma City
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59019
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FoxNET EAST
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59043
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FoxNET MID
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59044
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FoxNET WEST
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59045
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox 30 (WGBC) Meridian
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59054
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 50 Raleigh WRAZ
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59092
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports New Orleans
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59115
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 57 Columbia (WACH)
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/86518
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 42 Omaha (KPTM)
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/86526
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 20 WCOV Montgomery
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/88532
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 54 WZDX Huntsville
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/88537
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 13 WHBQ Memphis
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498849
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 17 WXMI Grand Rapids
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498850
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 23 Albany (WXXA)
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498851
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 23 KOKI Tulsa
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498852
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 24 KSAS Wichita
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498853
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 28 WPGX Panama City
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498854
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 31 Albany (WFXL)
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498855
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 41 (WDRB) Louisville
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498856
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 43 (WFXB) Myrtle beach
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498857
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 44 WGMB Baton rouge
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498858
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 45 (WRGT) Dayton
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498859
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 6 WBRC Birmingham
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498861
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 66 WSMH Flint
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498862
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 68 WSYT Syracuse
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498863
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 7 (KTBC) Austin
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498864
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 9 WTVC-DT Chattanooga
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498865
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox KRQE Albuquerque
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498866
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX WDBD Jackson
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498867
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX WDRB Louisville
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498868
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX WNAC Providence
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498869
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 10 (WALA) Alabama
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58415
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Atlanta WAGA
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58416
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Austin KTBC
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58417
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Baltimore WBFF
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58418
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Belmont WJZY
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58419
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Boston WFXT
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58420
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Buffalo WUTV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58421
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Business Network LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58422
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Business SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58423
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Business UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58424
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Bussines Network
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58425
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Chicago WFLD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58426
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Cleveland WJW
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58427
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox College Pacific
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58428
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Columbus WTTE
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58432
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Dallas KDFW
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58433
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Denver KDVR
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58434
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Deportes
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58435
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Deportes LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58436
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Deportes LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58437
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Detroit WJBK
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58438
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Green Bay WLUK
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58439
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Hartford WTIC
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58440
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Houston KRIV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58441
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Indianapolis WXIN
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58442
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Jacksonville WFOX
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58443
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Kansas City WDAF
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58444
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Life
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58445
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Los Angeles KTTV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58446
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Miami WSVN UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58447
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Milwaukee WITI
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58448
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Minneapolis KMSP
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58449
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Nashville WZTV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58450
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Network East SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58451
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Network East UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58452
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox New Orleans WVUE
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58453
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox New York SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58454
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox New York WNYW
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58455
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox News Channel
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58456
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX News Channel LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58457
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox News SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58458
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox News UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58459
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Ocala WOGX
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58460
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Orlando WOFL
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58461
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Philadelphia WTXF
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58462
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Phoenix KSAZ
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58463
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Pittsburgh WPGH
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58464
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sacramento KTXL
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58465
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Salt Lake City KSTU
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58466
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox San Antonio KABB
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58467
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX San Diego KSWB
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58468
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox San Francisco KTVU
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58469
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Seattle KCPQ
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58470
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Soccer Plus
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58471
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Soccer Plus LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58472
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports 1 LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58473
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports 1 SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58474
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports 2 LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58476
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports 2 SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58477
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports 2 UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58478
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports Arizona
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58479
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Arizona LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58480
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports College Atlantic
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58482
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports Detroit
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58484
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Detroit LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58485
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports Florida
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58486
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Florida LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58487
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Indiana Plus KDVR
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58488
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Midwest LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58489
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports Netbase
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58490
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports North
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58491
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports North LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58492
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Ohio LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58494
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports Oklahoma
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58495
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Oklahoma LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58496
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Prime Ticket LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58498
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports San Diego
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58499
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports SanDiego LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58500
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports South
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58501
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports South LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58502
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Southeast
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58503
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Southeast LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58504
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Southwest
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58505
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Southwest LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58506
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports Sun
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58508
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Sun LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58509
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports Tennessee LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58511
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports West
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58512
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Sports West LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58513
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports Wisconsin
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58514
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox SportsTime Ohio
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58516
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox SportsTime Ohio LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58517
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX St Louis KTVI
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58518
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Tampa WTVT
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58519
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX Washington WTTG
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58520
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX21 (WHNS) Asheville
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58521
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX22 (KQFX) Jefferson City
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58522
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX24 (KFTA) Fort Smith
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58523
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX28 (KFXA) Cedar Rapids
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58524
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX4 (KTBY) Anchorage
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58525
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX5 (KVVU) Las Vegas
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58526
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports 2
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58533
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Greensboro WGHP
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59016
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 25 (KOKH) Oklahoma City
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59019
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FoxNET EAST
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59043
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FoxNET MID
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59044
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FoxNET WEST
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59045
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox 30 (WGBC) Meridian
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59054
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 50 Raleigh WRAZ
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59092
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox Sports New Orleans
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/59115
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 57 Columbia (WACH)
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/86518
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 42 Omaha (KPTM)
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/86526
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 20 WCOV Montgomery
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/88532
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 54 WZDX Huntsville
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/88537
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 13 WHBQ Memphis
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498849
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 17 WXMI Grand Rapids
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498850
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 23 Albany (WXXA)
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498851
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 23 KOKI Tulsa
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498852
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 24 KSAS Wichita
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498853
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 28 WPGX Panama City
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498854
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 31 Albany (WFXL)
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498855
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 41 (WDRB) Louisville
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498856
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 43 (WFXB) Myrtle beach
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498857
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 44 WGMB Baton rouge
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498858
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 45 (WRGT) Dayton
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498859
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 6 WBRC Birmingham
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498861
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 66 WSMH Flint
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498862
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 68 WSYT Syracuse
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498863
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 7 (KTBC) Austin
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498864
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX 9 WTVC-DT Chattanooga
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498865
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA Fox KRQE Albuquerque
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498866
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX WDBD Jackson
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498867
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX WDRB Louisville
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498868
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA FOX WNAC Providence
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/498869
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA NBA TV
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58737
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA NBA TV LHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58738
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA NBA TV SD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58739
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Without category", USA NBA TV UHD
+http://pvserver.link:8080/mkZ5D3DteY/6178378546/58740
+
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/303935721.png" group-title="FILSAT", NBA LEAGUE PASS 1
+http://nba.cdncrack.gq/live/1/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.m3u-editor.com/storage/channel-logos/5b1d0550-bed7-11eb-8686-db2fa64a534a/1678084/303935722.png" group-title="FILSAT", NBA LEAGUE PASS 2
+http://nba.cdncrack.gq/live/2/chunks.m3u8
+
